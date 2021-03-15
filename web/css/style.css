@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#img {
+    position: relative;
+    font-family: calibri;
+    width: 150px;
+    padding: 10px;
+    border: 1px dashed #BBB;
+    text-align: center;
+    background-color: rgb(221, 221, 221);
+    cursor: pointer;
+}
