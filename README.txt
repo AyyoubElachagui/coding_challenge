@@ -3,7 +3,7 @@ Software Engineer - coding challenge
 
 📑 Usage :
     1. Copy the project to "C:\xampp\htdocs".
-    2. Import the database to Phpmyadmin.
+    2. Import the database to Phpmyadmin.(inside folder named database)
     3. Open command line on the project folder.
     4. Copy this command to your command line:
         > php cli.php
